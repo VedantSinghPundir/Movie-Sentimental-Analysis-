@@ -14,8 +14,6 @@ This project performs sentiment analysis on IMDB movie reviews using Natural Lan
   - [Using the Script](#using-the-script)
   - [Using the GUI Application](#using-the-gui-application)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -124,31 +122,5 @@ The trained models achieved the following accuracy on the test set:
 ### Confusion Matrix (Best Model: BernoulliNB)
 ### Weighted Precision:
 - **BernoulliNB:** 85.27%
-
----
-
-## Contributing
-
-Contributions are welcome! Follow these steps to contribute:
-1. Fork the repository.
-2. Create a feature branch:
-    ```bash
-    git checkout -b feature-name
-    ```
-3. Commit your changes:
-    ```bash
-    git commit -m "Add new feature"
-    ```
-4. Push to your forked repository:
-    ```bash
-    git push origin feature-name
-    ```
-5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
