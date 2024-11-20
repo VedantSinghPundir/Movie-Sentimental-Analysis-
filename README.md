@@ -89,7 +89,7 @@ Follow these steps to set up the project locally:
 ---
 
 ## Usage
-Using the Script
+## Using the Script
 1. Run the script to preprocess the data and train models:
     ```bash
     python movie_sentiment_analysis.py
@@ -102,7 +102,7 @@ Using the Script
     print(test_model("This is the best movie I have ever seen!"))  # Output: Positive review
     print(test_model("The movie was terrible and boring."))       # Output: Negative review
     ```
-Using the GUI Application
+## Using the GUI Application
 1. Launch the GUI application :
     ```python
     sentiment_analysis_app.py
